@@ -1,0 +1,25 @@
+{
+  "name": "timing-safe-equal",
+  "version": "1.0.0",
+  "description": "timing safe equals, but for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "browser": "browser.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crypto-browserify/timing-safe-equal.git"
+  },
+  "keywords": [
+    "timing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crypto-browserify/timing-safe-equal/issues"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
